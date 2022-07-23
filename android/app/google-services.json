@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14385790165",
+    "project_id": "camedhm-b94f8",
+    "storage_bucket": "camedhm-b94f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14385790165:android:069dd355e89fd5e4c9365c",
+        "android_client_info": {
+          "package_name": "com.example.camed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14385790165-uj1cubbups2hv34bcm6d2mfc16rurjlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCFuPfnJpwFMXDwG1uRqStvImoTm98yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14385790165-uj1cubbups2hv34bcm6d2mfc16rurjlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
